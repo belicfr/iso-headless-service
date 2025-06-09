@@ -1,2 +1,2 @@
-# iso-headless-imager
-Iso Engine headless imager, to use with Iso Game Engine, to generate in server-side images using client's properties.
+# iso-headless-service
+Iso headless service using Typescript. To use with C# game server as imager other some utils like pathfinding.
